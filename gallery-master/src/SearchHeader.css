@@ -1,0 +1,10 @@
+.searchDiv{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+
+}
+.searchDiv form{
+    display: flex;
+    flex-direction: column;
+}
